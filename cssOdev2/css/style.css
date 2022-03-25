@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*web sayfasındaki genel içerik bloğumuz*/
+.container{
+    margin: 10px auto;
+    width: 1708px;
+}
+/*----------------------*/
+
+/*blok içindeki içerik blogğumuz*/
+.content{
+    margin: 0 auto;
+    width: 100%;
+}
+/*-------------*/
+
+/*içerikleri ortalamaka için ortalamak için*/
+.center{
+    text-align: center;
+}
+
+/*aramakismi*/
+.aramakismi{
+    background-color: #eee;
+}
+
+/*3lü blok kısmı*/
+
+.card1{
+    height: 74px;
+    float: left;
+    width: 36.8%;
+    margin-top: 5px;
+    background-color: #7ee5da;
+    margin-right: 0.2%;
+}
+
+.card2{
+    height: 74px;
+    float: left;
+    width: 19.8%;
+    margin-top: 5px;
+    background-color: #70ccc2;
+    font-size: small;
+    margin-right: 0.2%;
+}
+
+.card3{
+    font-size: small;
+    float: left;
+    width: 43%;
+    margin-top: 5px;
+    background-color: #62b3aa;
+}
+
+/*footer*/
+
+.footer{
+    margin-top: 100px;
+    font-size: small;
+}
