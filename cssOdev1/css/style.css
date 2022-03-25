@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/*menu start*/
+nav{
+    margin: auto;
+    padding: 10px;
+    width: 500px;
+}
+nav li{
+    float: left;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+
+}
+nav li a {
+    display: block;
+    padding: 12px 14px;
+    background-color: #557B83;
+    color: white;
+    text-decoration: none;
+}
+
+nav li a:hover{
+    background-color: #39AEA9;
+}
+/*menu finish*/
+/*başlık*/
+nav h1{
+    text-align: center;
+}
+/*baslık*/
+.ortala{
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+section p{
+    text-align: center;
+}
+
+section h3{
+    text-align: center;
+}
+section ul{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.text_line{
+    clear: left;
+}
